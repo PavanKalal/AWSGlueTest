@@ -18,7 +18,7 @@
     "--enable-glue-datacatalog" : "true",
     "library-set" : "analytics"
   },
-  "maxRetries" : 3,
+  "maxRetries" : 1,
   "allocatedCapacity" : 10,
   "timeout" : 2880,
   "maxCapacity" : 10.0,
